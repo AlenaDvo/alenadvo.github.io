@@ -1,0 +1,31 @@
+.container {
+    margin: 0px auto;
+    position: relative;
+    width: 900px;
+    font-family: Gill Sans MT, sans-serif;
+}
+
+.container img {
+    position: absolute;
+    margin-bottom: 15px;
+}
+
+.container .title {
+    position: absolute;
+    top: 260px;
+    left: 150px;
+    font-size: 50px;
+}
+
+main {
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    padding-top: 380px;
+    position: absolute;
+    left: 150px;
+}
+
+ul {
+    cursor: pointer;
+    width: 550px;
+    list-style: square;
+}
